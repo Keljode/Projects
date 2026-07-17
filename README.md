@@ -95,15 +95,6 @@ Analyse transport and environmental datasets to understand mobility patterns, tr
 
 ---
 
-## About Me
-
-I recently completed a **Level 3 Certificate in Data Analytics** and enjoy transforming raw data into meaningful insights through SQL, Excel and Power BI.
-
-I am currently seeking opportunities as a Data Analyst, Reporting Analyst, Business Intelligence Analyst or Junior Data Engineer.
-
-Feel free to connect with me on LinkedIn.
-
----
 
 ## 👨‍💻 About Me
 
@@ -112,5 +103,7 @@ I recently completed my **Level 3 Certificate in Data Analytics** with Netcom Tr
 I enjoy using data to solve business problems, uncover trends and communicate insights through interactive dashboards and reports.
 
 I am currently seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, **Reporting Analyst**, or **Junior Data Engineer**.
+
+Feel free to connect with me on LinkedIn. 
 
 Thank you for visiting my portfolio!
