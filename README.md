@@ -42,7 +42,7 @@ Analyse retail sales data across product categories(Technology, furnitures, and 
 
   **Dashboard**
   <p align="center">
-  <img src="Project_4_Retail_sales_analysis/dashboard.png" width="900">
+  <img src="Project_4_Retail_sales_analysis/Overview_retail.png" width="900">
 </p>
 
 ---
