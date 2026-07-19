@@ -111,6 +111,20 @@ Analyse transport and environmental datasets to understand mobility patterns, tr
 - Power Query
 - Power BI
 
+**Key Insights**
+- E-Scooter is the most used transport mode, followed by train, car, and walk. Bike is the least used.
+- E-scooter, bike, and walking are the most efficient and reliable mode; bus and cars are the most affected by delays (they are sensible to traffic congestion). Trains are used for long journeys, and are reliable due to short delays.
+- Rain increased delays time across all transport mode especially buses and cars.
+- E-scooters and trains are slightly affected by the weather.
+- Cars produce the highest CO2 emissions, buses and trains generate lower emission, while bike, walk and E-scooter produce zero emission.
+- Walking has the highest satisfaction score.
+- Cars and trains have the highest ticket price, follolwed by buses. While Walking, and cycling are completely free.
+
+  **Dashboard**
+   <p align= "center">
+   <img src="Project_2_UK_Housing_Insights_Market/Dashboard_Excel.png" width = "900">
+   </p>
+
 ---
 
 
