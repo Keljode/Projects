@@ -59,15 +59,17 @@ Analyse hospital operations to understand patient flow, waiting times and bed ut
 - Excel
 - Power BI
 
-**Business Questions**
+**Key Insights**
 
-- What factors contribute to patient delays?
-- Does bed availability affect patient flow?
-- How do staffing levels influence performance?
+- All deprtments experience waiting times above 20 min. Paediatrics has the highest average waiting time (114 min), followed by Maternity, Respiratory, ENT and A&E departments.
+- The hospital admitted 817 patients: 746 patients discharged, 70 patients transferred and emergency recorded  deceased.
+- Higher staffing level do not always lead to shorter waiting times.
+- Some departments with more beds still experience long waiting times.
+- Witing times might be influenced by other factors: Patient arrival volumes, emergency demand, depatment workload, patient complexity, etc...
 
  **Dashboard**
   <p align="center">
-  <img src="Project_4_Retail_sales_analysis/pic.png" width="900">
+  <img src="/pic.png" width="900">
 </p>
 
 ### 🏡 UK Real Estate Investment Analysis
