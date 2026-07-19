@@ -65,7 +65,10 @@ Analyse hospital operations to understand patient flow, waiting times and bed ut
 - Does bed availability affect patient flow?
 - How do staffing levels influence performance?
 
----
+ **Dashboard**
+  <p align="center">
+  <img src="Project_4_Retail_sales_analysis/pic.png" width="900">
+</p>
 
 ### 🏡 UK Real Estate Investment Analysis
 
