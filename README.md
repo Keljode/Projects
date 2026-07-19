@@ -72,11 +72,11 @@ Analyse hospital operations to understand patient flow, waiting times and bed ut
   <img src="Project_3_Hospital_Patient_Flow/pic.png" width="900">
 </p>
 
-### 🏡 UK Real Estate Investment Analysis (Bury vs Trafford)
+### 🏡 UK Housing Market Insights (2023 - 2024)
 
 **Objective**
 
-Analyse UK property market data to identify investment opportunities between Bury and Trafford and regional trends.
+Analyse UK property market data to identify house prices by regions, growth rate, investment opportunities and regional trends.
 
 **Tools**
 
@@ -85,7 +85,11 @@ Analyse UK property market data to identify investment opportunities between Bur
 - Power BI
 
 **Key Insights**
-- 
+- North-East, North-West, and East Midlands were the most affordable regions; While London, South-East (lower average house prices), and South-West were the least affordable regions ( higer average house prices).
+- Flats were the most affordables and the most purchased property, followed by semi-detached and terraced houses that count for around 25% of sales.
+- Detached houses had the highest grow rate (10.02% between 2023 and 2024), followed by flat (9.2%).
+- Properties with highest average value have the lowest energy rating.
+- Londonhad the highest investment score (almost 900), followed by Noth-West.
 
 ---
 
