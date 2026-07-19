@@ -91,6 +91,12 @@ Analyse UK property market data to identify house prices by regions, growth rate
 - Properties with highest average value have the lowest energy rating.
 - Londonhad the highest investment score (almost 900), followed by Noth-West.
 
+  **Dashboard**
+   <p align= "center">
+   <img src="Project_2_UK_Housing_Insights_Market/Screenshot 2026-07-17 170957.png" width = "900">
+   </p>
+  
+
 ---
 
 ### 🚦 UK Smart City Mobility & Air Quality Analytics
